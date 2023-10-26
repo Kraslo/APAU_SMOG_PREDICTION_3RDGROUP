@@ -7,3 +7,7 @@
 3. José Ángel Bello Pérez
 4. Diego Pérez Beltrán
 5. Andrés Velasco Sánchez
+
+## 1. Conocimiento del código
+## 2. Análisis exploratorio
+## 3. Aprendizaje automático
