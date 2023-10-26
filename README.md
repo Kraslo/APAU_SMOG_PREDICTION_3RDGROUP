@@ -2,8 +2,8 @@
 3rd group of the APAU Smog Prediction Challenge.
  
 ## Participants:
-Ignacio Escribano Benavente
-Álvaro Pérez Saldaña
-José Ángel Bello Pérez
-Diego Pérez Beltrán
-Andrés Velasco Sánchez
+1. Ignacio Escribano Benavente
+2. Álvaro Pérez Saldaña
+3. José Ángel Bello Pérez
+4. Diego Pérez Beltrán
+5. Andrés Velasco Sánchez
